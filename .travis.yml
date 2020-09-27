@@ -4,6 +4,6 @@ python:
 install:
   - pip install codecov
 script:
-  - coverage run tests.py
+  - coverage run game_test.py
 after_success:
   - codecov
