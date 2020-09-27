@@ -8,9 +8,6 @@ setup(
     url='https://github.com/daryalapa/Hangman',
     license='MIT',
     test_suite='tests',
-    tests_require=[
-        "unittest",
-    ],
     classifiers=[
         "Development Status :: 1 - Planning",
         "License :: OSI Approved :: MIT License",
